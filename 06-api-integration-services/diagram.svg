@@ -1,0 +1,40 @@
+<svg viewBox="0 0 1200 360" xmlns="http://www.w3.org/2000/svg" font-family="Verdana, Geneva, sans-serif">
+  <rect width="1200" height="360" fill="#0F1117"/>
+  <g transform="translate(190,180)">
+    <circle r="85" fill="#5865F2" fill-opacity="0.18" stroke="#5865F2" stroke-width="3"/>
+    <text x="0" y="-8" text-anchor="middle" font-size="40">🔗</text>
+    <text x="0" y="28" text-anchor="middle" font-size="15" fill="#ffffff" font-weight="bold">API Integration &amp; Services</text>
+  </g>
+  <line x1="280" y1="180" x2="480" y2="60" stroke="#5865F2" stroke-width="2" stroke-opacity="0.55"/>
+<line x1="280" y1="180" x2="480" y2="120" stroke="#5865F2" stroke-width="2" stroke-opacity="0.55"/>
+<line x1="280" y1="180" x2="480" y2="180" stroke="#5865F2" stroke-width="2" stroke-opacity="0.55"/>
+<line x1="280" y1="180" x2="480" y2="240" stroke="#5865F2" stroke-width="2" stroke-opacity="0.55"/>
+<line x1="280" y1="180" x2="480" y2="300" stroke="#5865F2" stroke-width="2" stroke-opacity="0.55"/>
+
+  
+        <g transform="translate(480,42)">
+          <rect width="420" height="36" rx="8" fill="#1B1E2B" stroke="#5865F2" stroke-width="1.5"/>
+          <text x="14" y="23" font-family="Verdana, Geneva, sans-serif" font-size="14" fill="#ffffff">Discord Bot (discord.py)</text>
+        </g>
+        
+        <g transform="translate(480,102)">
+          <rect width="420" height="36" rx="8" fill="#1B1E2B" stroke="#5865F2" stroke-width="1.5"/>
+          <text x="14" y="23" font-family="Verdana, Geneva, sans-serif" font-size="14" fill="#ffffff">Twitter Post Automator (Tweepy)</text>
+        </g>
+        
+        <g transform="translate(480,162)">
+          <rect width="420" height="36" rx="8" fill="#1B1E2B" stroke="#5865F2" stroke-width="1.5"/>
+          <text x="14" y="23" font-family="Verdana, Geneva, sans-serif" font-size="14" fill="#ffffff">Weather API Client</text>
+        </g>
+        
+        <g transform="translate(480,222)">
+          <rect width="420" height="36" rx="8" fill="#1B1E2B" stroke="#5865F2" stroke-width="1.5"/>
+          <text x="14" y="23" font-family="Verdana, Geneva, sans-serif" font-size="14" fill="#ffffff">Slack Bot</text>
+        </g>
+        
+        <g transform="translate(480,282)">
+          <rect width="420" height="36" rx="8" fill="#1B1E2B" stroke="#5865F2" stroke-width="1.5"/>
+          <text x="14" y="23" font-family="Verdana, Geneva, sans-serif" font-size="14" fill="#ffffff">PayPal Integration</text>
+        </g>
+        
+</svg>
