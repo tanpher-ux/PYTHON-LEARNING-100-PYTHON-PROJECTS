@@ -1,0 +1,145 @@
+<svg viewBox="0 0 1220 730" xmlns="http://www.w3.org/2000/svg" font-family="Verdana, Geneva, sans-serif">
+  <rect width="1220" height="730" fill="#0F1117"/>
+  <text x="610" y="38" text-anchor="middle" font-size="26" font-weight="bold" fill="#ffffff">100 Projects &#8226; 20 Categories</text>
+  
+    <g transform="translate(20,80)">
+      <rect width="280" height="110" rx="12" fill="#1B1E2B" stroke="#4B8BBE" stroke-width="2"/>
+      <text x="16" y="34" font-size="26">🌐</text>
+      <text x="16" y="62" font-family="Verdana, Geneva, sans-serif" font-size="14" font-weight="bold" fill="#ffffff">Web Development Frameworks</text>
+      <text x="16" y="86" font-family="Verdana, Geneva, sans-serif" font-size="12" fill="#9AA0C3">1&#8211;5 &#183; 5 projects</text>
+    </g>
+    
+    <g transform="translate(320,80)">
+      <rect width="280" height="110" rx="12" fill="#1B1E2B" stroke="#336791" stroke-width="2"/>
+      <text x="16" y="34" font-size="26">🗄️</text>
+      <text x="16" y="62" font-family="Verdana, Geneva, sans-serif" font-size="14" font-weight="bold" fill="#ffffff">Database Interactions</text>
+      <text x="16" y="86" font-family="Verdana, Geneva, sans-serif" font-size="12" fill="#9AA0C3">6&#8211;10 &#183; 5 projects</text>
+    </g>
+    
+    <g transform="translate(620,80)">
+      <rect width="280" height="110" rx="12" fill="#1B1E2B" stroke="#2E7D32" stroke-width="2"/>
+      <text x="16" y="34" font-size="26">🕸️</text>
+      <text x="16" y="62" font-family="Verdana, Geneva, sans-serif" font-size="14" font-weight="bold" fill="#ffffff">Web Scraping &amp; Data Mining</text>
+      <text x="16" y="86" font-family="Verdana, Geneva, sans-serif" font-size="12" fill="#9AA0C3">11&#8211;15 &#183; 5 projects</text>
+    </g>
+    
+    <g transform="translate(920,80)">
+      <rect width="280" height="110" rx="12" fill="#1B1E2B" stroke="#8E44AD" stroke-width="2"/>
+      <text x="16" y="34" font-size="26">🔌</text>
+      <text x="16" y="62" font-family="Verdana, Geneva, sans-serif" font-size="14" font-weight="bold" fill="#ffffff">Network Programming</text>
+      <text x="16" y="86" font-family="Verdana, Geneva, sans-serif" font-size="12" fill="#9AA0C3">16&#8211;20 &#183; 5 projects</text>
+    </g>
+    
+    <g transform="translate(20,210)">
+      <rect width="280" height="110" rx="12" fill="#1B1E2B" stroke="#F37626" stroke-width="2"/>
+      <text x="16" y="34" font-size="26">📊</text>
+      <text x="16" y="62" font-family="Verdana, Geneva, sans-serif" font-size="14" font-weight="bold" fill="#ffffff">Data Science &amp; Analysis</text>
+      <text x="16" y="86" font-family="Verdana, Geneva, sans-serif" font-size="12" fill="#9AA0C3">21&#8211;25 &#183; 5 projects</text>
+    </g>
+    
+    <g transform="translate(320,210)">
+      <rect width="280" height="110" rx="12" fill="#1B1E2B" stroke="#5865F2" stroke-width="2"/>
+      <text x="16" y="34" font-size="26">🔗</text>
+      <text x="16" y="62" font-family="Verdana, Geneva, sans-serif" font-size="14" font-weight="bold" fill="#ffffff">API Integration &amp; Services</text>
+      <text x="16" y="86" font-family="Verdana, Geneva, sans-serif" font-size="12" fill="#9AA0C3">26&#8211;30 &#183; 5 projects</text>
+    </g>
+    
+    <g transform="translate(620,210)">
+      <rect width="280" height="110" rx="12" fill="#1B1E2B" stroke="#0A9396" stroke-width="2"/>
+      <text x="16" y="34" font-size="26">✅</text>
+      <text x="16" y="62" font-family="Verdana, Geneva, sans-serif" font-size="14" font-weight="bold" fill="#ffffff">Testing &amp; Quality Assurance</text>
+      <text x="16" y="86" font-family="Verdana, Geneva, sans-serif" font-size="12" fill="#9AA0C3">31&#8211;35 &#183; 5 projects</text>
+    </g>
+    
+    <g transform="translate(920,210)">
+      <rect width="280" height="110" rx="12" fill="#1B1E2B" stroke="#00758F" stroke-width="2"/>
+      <text x="16" y="34" font-size="26">📡</text>
+      <text x="16" y="62" font-family="Verdana, Geneva, sans-serif" font-size="14" font-weight="bold" fill="#ffffff">Internet of Things (IoT)</text>
+      <text x="16" y="86" font-family="Verdana, Geneva, sans-serif" font-size="12" fill="#9AA0C3">36&#8211;40 &#183; 5 projects</text>
+    </g>
+    
+    <g transform="translate(20,340)">
+      <rect width="280" height="110" rx="12" fill="#1B1E2B" stroke="#FF6F00" stroke-width="2"/>
+      <text x="16" y="34" font-size="26">🧠</text>
+      <text x="16" y="62" font-family="Verdana, Geneva, sans-serif" font-size="14" font-weight="bold" fill="#ffffff">Deep Learning &amp; AI</text>
+      <text x="16" y="86" font-family="Verdana, Geneva, sans-serif" font-size="12" fill="#9AA0C3">41&#8211;45 &#183; 5 projects</text>
+    </g>
+    
+    <g transform="translate(320,340)">
+      <rect width="280" height="110" rx="12" fill="#1B1E2B" stroke="#43A047" stroke-width="2"/>
+      <text x="16" y="34" font-size="26">💬</text>
+      <text x="16" y="62" font-family="Verdana, Geneva, sans-serif" font-size="14" font-weight="bold" fill="#ffffff">Natural Language Processing (NLP)</text>
+      <text x="16" y="86" font-family="Verdana, Geneva, sans-serif" font-size="12" fill="#9AA0C3">46&#8211;50 &#183; 5 projects</text>
+    </g>
+    
+    <g transform="translate(620,340)">
+      <rect width="280" height="110" rx="12" fill="#1B1E2B" stroke="#E64A19" stroke-width="2"/>
+      <text x="16" y="34" font-size="26">📈</text>
+      <text x="16" y="62" font-family="Verdana, Geneva, sans-serif" font-size="14" font-weight="bold" fill="#ffffff">Visualizations &amp; Dashboards</text>
+      <text x="16" y="86" font-family="Verdana, Geneva, sans-serif" font-size="12" fill="#9AA0C3">51&#8211;55 &#183; 5 projects</text>
+    </g>
+    
+    <g transform="translate(920,340)">
+      <rect width="280" height="110" rx="12" fill="#1B1E2B" stroke="#1976D2" stroke-width="2"/>
+      <text x="16" y="34" font-size="26">📱</text>
+      <text x="16" y="62" font-family="Verdana, Geneva, sans-serif" font-size="14" font-weight="bold" fill="#ffffff">Mobile App Development (Kivy)</text>
+      <text x="16" y="86" font-family="Verdana, Geneva, sans-serif" font-size="12" fill="#9AA0C3">56&#8211;60 &#183; 5 projects</text>
+    </g>
+    
+    <g transform="translate(20,470)">
+      <rect width="280" height="110" rx="12" fill="#1B1E2B" stroke="#607D8B" stroke-width="2"/>
+      <text x="16" y="34" font-size="26">⚙️</text>
+      <text x="16" y="62" font-family="Verdana, Geneva, sans-serif" font-size="14" font-weight="bold" fill="#ffffff">Automation &amp; Scripting</text>
+      <text x="16" y="86" font-family="Verdana, Geneva, sans-serif" font-size="12" fill="#9AA0C3">61&#8211;65 &#183; 5 projects</text>
+    </g>
+    
+    <g transform="translate(320,470)">
+      <rect width="280" height="110" rx="12" fill="#1B1E2B" stroke="#FF9900" stroke-width="2"/>
+      <text x="16" y="34" font-size="26">☁️</text>
+      <text x="16" y="62" font-family="Verdana, Geneva, sans-serif" font-size="14" font-weight="bold" fill="#ffffff">Cloud Computing &amp; Services</text>
+      <text x="16" y="86" font-family="Verdana, Geneva, sans-serif" font-size="12" fill="#9AA0C3">66&#8211;70 &#183; 5 projects</text>
+    </g>
+    
+    <g transform="translate(620,470)">
+      <rect width="280" height="110" rx="12" fill="#1B1E2B" stroke="#7B1FA2" stroke-width="2"/>
+      <text x="16" y="34" font-size="26">🎓</text>
+      <text x="16" y="62" font-family="Verdana, Geneva, sans-serif" font-size="14" font-weight="bold" fill="#ffffff">Educational Tools</text>
+      <text x="16" y="86" font-family="Verdana, Geneva, sans-serif" font-size="12" fill="#9AA0C3">71&#8211;75 &#183; 5 projects</text>
+    </g>
+    
+    <g transform="translate(920,470)">
+      <rect width="280" height="110" rx="12" fill="#1B1E2B" stroke="#EF6C00" stroke-width="2"/>
+      <text x="16" y="34" font-size="26">🤖</text>
+      <text x="16" y="62" font-family="Verdana, Geneva, sans-serif" font-size="14" font-weight="bold" fill="#ffffff">Machine Learning (Core)</text>
+      <text x="16" y="86" font-family="Verdana, Geneva, sans-serif" font-size="12" fill="#9AA0C3">76&#8211;80 &#183; 5 projects</text>
+    </g>
+    
+    <g transform="translate(20,600)">
+      <rect width="280" height="110" rx="12" fill="#1B1E2B" stroke="#43A047" stroke-width="2"/>
+      <text x="16" y="34" font-size="26">🎮</text>
+      <text x="16" y="62" font-family="Verdana, Geneva, sans-serif" font-size="14" font-weight="bold" fill="#ffffff">Game Development (Pygame)</text>
+      <text x="16" y="86" font-family="Verdana, Geneva, sans-serif" font-size="12" fill="#9AA0C3">81&#8211;85 &#183; 5 projects</text>
+    </g>
+    
+    <g transform="translate(320,600)">
+      <rect width="280" height="110" rx="12" fill="#1B1E2B" stroke="#2E7D32" stroke-width="2"/>
+      <text x="16" y="34" font-size="26">💰</text>
+      <text x="16" y="62" font-family="Verdana, Geneva, sans-serif" font-size="14" font-weight="bold" fill="#ffffff">Financial Python (Fintech)</text>
+      <text x="16" y="86" font-family="Verdana, Geneva, sans-serif" font-size="12" fill="#9AA0C3">86&#8211;90 &#183; 5 projects</text>
+    </g>
+    
+    <g transform="translate(620,600)">
+      <rect width="280" height="110" rx="12" fill="#1B1E2B" stroke="#455A64" stroke-width="2"/>
+      <text x="16" y="34" font-size="26">🖥️</text>
+      <text x="16" y="62" font-family="Verdana, Geneva, sans-serif" font-size="14" font-weight="bold" fill="#ffffff">Desktop Applications (GUI)</text>
+      <text x="16" y="86" font-family="Verdana, Geneva, sans-serif" font-size="12" fill="#9AA0C3">91&#8211;95 &#183; 5 projects</text>
+    </g>
+    
+    <g transform="translate(920,600)">
+      <rect width="280" height="110" rx="12" fill="#1B1E2B" stroke="#2496ED" stroke-width="2"/>
+      <text x="16" y="34" font-size="26">🔧</text>
+      <text x="16" y="62" font-family="Verdana, Geneva, sans-serif" font-size="14" font-weight="bold" fill="#ffffff">DevOps &amp; Workflow Tools</text>
+      <text x="16" y="86" font-family="Verdana, Geneva, sans-serif" font-size="12" fill="#9AA0C3">96&#8211;100 &#183; 5 projects</text>
+    </g>
+    
+</svg>
